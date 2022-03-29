@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome to the arena! im here to train you today, I see that you brought your girlfriend too."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, lets start with a warm up, show me what you got!"
+		}
+	]
+}
