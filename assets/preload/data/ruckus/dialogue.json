@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Feeling the heat yet?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Boop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, this is a long one, can you keep up the rythm?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bap bop!"
+		}
+	]
+}
