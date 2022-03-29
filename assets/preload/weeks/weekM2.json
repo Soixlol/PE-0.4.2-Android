@@ -1,0 +1,39 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "wiik2bg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sporting",
+			"matt",
+			[
+				215,
+				95,
+				0
+			]
+		],
+		[
+			"boxing-match",
+			"matt",
+			[
+				215,
+				95,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Matt2"
+}

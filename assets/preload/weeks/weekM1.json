@@ -1,0 +1,48 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "wiik1bg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Light-it-up",
+			"matt",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"ruckus",
+			"matt",
+			[
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"target-practice",
+			"matt",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Matt"
+}
