@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "What are you two doing here? The singing lessons are on tuesday."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im guessing you came back to challenge me again, are you not satisfied?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bop bop barapiribop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I almost lost my job because of you, you humiliated me infront of everyone."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This isnt training anymore, kid."
+		}
+	]
+}
