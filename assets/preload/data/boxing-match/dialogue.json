@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the absolute funk is wrong with you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Eat Mii nuts"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I had patience, I gave you a chance, thats not even funny."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sing as loud as you can, no one will be able to hear you scream."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "matt-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ill punch you so hard you will forget how to speak completely."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bap bop beep"
+		}
+	]
+}
