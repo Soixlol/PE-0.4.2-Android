@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Little Man", "little-man", [255, 255, 255]],
+		["Rum", "waiting", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"Dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "Stage",
+
+	"storyName": "Why are you here?",
+	"weekBefore": "mmmmron",
+	"weekName": "Hidden",
+	"startUnlocked": true,
+	"difficulties": "Easy,Normal,Hard,Edd",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

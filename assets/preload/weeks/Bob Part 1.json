@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Sunshine", "bob", [255, 255, 255]],
+		["Withered", "angrybob", [255, 255, 255]],
+		["Run", "hellbob", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"Bob",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "Hill",
+
+	"storyName": "mmmmbob",
+	"weekBefore": "week6",
+	"weekName": "mmmmbob",
+	"startUnlocked": true,
+	"difficulties": "Easy,Normal,Hard,Edd",
+	
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Ron", "ron", [255, 216, 0]],
+		["Trouble", "gloop-bob", [127, 127, 127]],
+		["Onslaught", "glitched-bob", [15, 15, 15]]
+	],
+
+	"weekCharacters": [
+		"Ron",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "Street",
+
+	"storyName": "mmmmron",
+	"weekBefore": "mmmmbob",
+	"weekName": "mmmmron",
+	"startUnlocked": true,
+	"difficulties": "Easy,Normal,Hard,Edd,Remix",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
