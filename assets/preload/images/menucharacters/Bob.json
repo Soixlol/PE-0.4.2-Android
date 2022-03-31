@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BOBBY BOBINO BOBBLE menu asset",
+	"idle_anim": "BOBBY BOBINO BOBBLE menu asset",
+	"position": [
+		50,
+		-120
+	],
+	"scale": 0.7,
+	"image": "Menu_Bob"
+}
