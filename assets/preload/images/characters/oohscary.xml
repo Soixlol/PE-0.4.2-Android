@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oohscary.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bob_DOWN0000" x="566" y="423" width="461" height="356"/>
+	<SubTexture name="bob_LEFT0000" x="1033" y="0" width="454" height="373"/>
+	<SubTexture name="bob_RIGHT0000" x="0" y="0" width="566" height="389" frameX="-1" frameY="0" frameWidth="636" frameHeight="559"/>
+	<SubTexture name="bob_UP0000" x="566" y="0" width="467" height="423"/>
+	<SubTexture name="bob_idle0000" x="0" y="389" width="557" height="399"/>
+	<SubTexture name="bob_transform0000" x="0" y="389" width="557" height="399" frameX="-15" frameY="0" frameWidth="663" frameHeight="559"/>
+</TextureAtlas>
